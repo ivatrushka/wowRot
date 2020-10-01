@@ -21,7 +21,9 @@ key_2 = None
 x = None
 y = None
 
-
+def laska_kek():
+    if laska != gay:
+        play wow
 
 def config_open(): #open config and configure
     global x, y, config, key_1, key_2
