@@ -77,4 +77,4 @@ while True:
         keyboard.unhook_all_hotkeys()
         config_open()
     else:
-        pass
+        pass                        #pass
